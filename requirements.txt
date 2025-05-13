@@ -1,0 +1,10 @@
+docling-serve
+onnxruntime-gpu
+easyocr
+rapidocr-onnxruntime
+magic-pdf[full]
+fastapi
+uvicorn
+python-multipart
+tesserocr
+huggingface_hub
